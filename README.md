@@ -1,6 +1,8 @@
 A rhythm game that works with any song, Made in Unity 2022.3.8f1.
 
-https://youtu.be/RuGF38yJspM?si=ATqzWXbrlxTFE8Qn
+https://github.com/user-attachments/assets/52147212-c6fd-4e0e-a851-57af45cd9bab
+
+![RhythmMakerFileBrowser](https://github.com/user-attachments/assets/103563f5-af3e-4096-acdd-12e65ff3e336)
 
 Copyright © 2025 Jack Selleck. All rights reserved.
 
